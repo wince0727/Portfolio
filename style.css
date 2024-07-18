@@ -120,7 +120,7 @@ span{
 }
 .img-box img{
     border-radius: 50%;
-    width: 350px;
+    width: 25em;
     margin-left:350px;
     transform: translateY(100px);
     box-shadow: 0 0 25px white,
